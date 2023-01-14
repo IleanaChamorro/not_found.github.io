@@ -85,7 +85,7 @@ footer a {
 /* Responsive */
 
 /* Tablet */
-@media screen and (width: 768px){
+@media screen and (width: 744px){
     .scarecrow_img{
         max-width: 450px;
         margin-top: 30px;
