@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://ileanachamorro.github.io/not_found.github.io/">
       Demo
-    </a>{Your project name}
+    </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/IleanaChamorro/not_found.github.io">
       Solution
     </a>
     <span> | </span>
@@ -25,23 +25,20 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
+- [Built With](#built-with)
 - [Contact](#contact)
 
 <!-- OVERVIEW -->
 
 ## Overview
 <img src="https://raw.githubusercontent.com/IleanaChamorro/not_found.github.io/main/404notfound1.png">
+
 ### Built With
-
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+<ul>
+<img src="https://img.icons8.com/color/48/null/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/48/null/css3.png"/>
+</ul>
 
 ## Contact
-
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- <a href="https://github.com/IleanaChamorro">GITHUB</a>
+- <a href="www.linkedin.com/in/ileanachamorro">LINKEDIN</a>
